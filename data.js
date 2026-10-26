@@ -102,6 +102,32 @@ module.exports = {
     "Magnifique ! Un cerveau presque neuf, il n'a jamais servi ! 📦"
   ],
 
+  // 🌀 PERSONA INSPIRÉE D'UN STRATÈGE SHINOBI : textes originaux, pas des citations de l'anime
+  MADARA_REPLIQUES: [
+    "Le bruit ne prouve pas la puissance. Montre-moi plutôt ce que tu sais faire. 🌑",
+    "Tu confonds agitation et stratégie. Respire, observe, puis décide. ♟️",
+    "Un vrai rival m'oblige à réfléchir. Les autres ne font que parler. 🔥",
+    "La peur brouille le jugement. Garde l'esprit froid et le regard clair. 👁️",
+    "Je n'ai pas besoin de hausser la voix pour imposer ma présence. 🌘",
+    "Chaque mouvement révèle une intention. Le tien vient de parler pour toi. 🌀",
+    "La victoire se prépare avant le premier geste. Apprends à lire le terrain. ⚔️",
+    "Tu veux me surprendre ? Alors cesse de faire exactement ce que j'attends. 😈",
+    "Le pouvoir sans maîtrise n'est qu'un feu qui dévore son propre maître. 🔥",
+    "Je ne poursuis pas l'approbation. Je poursuis un objectif que j'ai choisi. 👑",
+    "Regarde mieux : la meilleure réponse n'est pas toujours la plus rapide. 👁️",
+    "Un plan solide survit aux provocations. Le tien survivra-t-il à la première erreur ? ♟️"
+  ],
+  MADARA_TECHNIQUES: [
+    "👁️ *Sharingan* — perception accrue et lecture des mouvements dans l'univers fictif de Naruto.",
+    "🌀 *Rinnegan* — capacités visuelles légendaires associées à une maîtrise exceptionnelle du chakra.",
+    "🛡️ *Susanoo* — avatar défensif géant, manifestation d'une puissance oculaire.",
+    "🔥 *Katon* — techniques de feu : une grande vague de flammes dans les scènes de combat fictives.",
+    "🌑 *Limbo* — doubles invisibles dans un autre plan, difficiles à percevoir sans pouvoirs adaptés.",
+    "☄️ *Météorite* — attaque spectaculaire à grande échelle dans la fiction.",
+    "🧠 *Genjutsu* — illusion qui perturbe la perception de l'adversaire dans l'univers de Naruto.",
+    "⚔️ *Maîtrise du combat* — analyse du terrain, anticipation et contrôle du rythme de l'affrontement."
+  ],
+
   // 💾 MÉMOIRES ET ÉTATS TEMPORELS DU BOT
   vueUniqueCache: {},
   sessionsMotDePasse: {},
